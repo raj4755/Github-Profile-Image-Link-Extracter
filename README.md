@@ -3,3 +3,6 @@ This Repository helps you to extract Profile Image link of any github Profile In
 
 You have to give the Giothub username to the program it will automatically fetch the profile picture of the User
 
+Clone this Repo:
+git clone repo_link
+
